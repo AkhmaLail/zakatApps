@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright©akhmaZakatApps</string>
+    <string name="developer">NAME: NURUL AKHMA LAILY BINTI KAMARUL HISHAM</string>
+    <string name="devId">STUDENT ID: 2020813704</string>
+    <string name="group">GROUP: RCS2405B</string>
+    <string name="Progcode">PROGRAMME CODE: CS240</string>
+    <string name="About_text"><a href=" ">Source Code Link</a></string>
+
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+</resources>
